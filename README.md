@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/MDIVAS/ZOHOIC-CHIP">
-    <img src="https://w7.pngwing.com/pngs/919/218/png-transparent-artificial-intelligence-ai-chip-technology-computer-artificial-intelligence-icon.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/MDIVAS/ZOHOIC-CHIP/assets/127883304/2d5a0f54-7055-4763-8037-870821bf4297" width="360" height="360">
   </a>
 
   <h3 align="center">ZOHOIC CHIP</h3>
