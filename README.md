@@ -45,12 +45,12 @@
 
 <img src="https://github.com/MDIVAS/ZOHOIC-CHIP/assets/127883304/38fabe77-bc97-47d9-86dc-d500145b9970" alt="Logo" width="640" height="480">
 
-### ZOHO CHIP Z2 
+### ZOHO CHIP Z2 M
 
 <img src="https://github.com/MDIVAS/ZOHOIC-CHIP/assets/127883304/bd2d1b8b-6412-48f4-a18c-490665df18cb" alt="Logo" width="640" height="480">
 
 
-### ZOHO CHIP Z2 M
+### ZOHO CHIP Z2 
 <img src="https://github.com/MDIVAS/ZOHOIC-CHIP/assets/127883304/48f34ec2-e024-46b2-877c-b5560e34c828" alt="Logo" width="640" height="480">
 
 
